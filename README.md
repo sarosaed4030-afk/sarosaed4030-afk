@@ -1,28 +1,34 @@
 # Hi, I'm Saro 👋
 
-**Aspiring AI Engineer | Python | Machine Learning**
+**Aspiring AI Engineer | Python Developer | Machine Learning & Deep Learning**
 
-I'm a student interested in artificial intelligence, programming, and computer science. I enjoy learning how intelligent systems work and building practical projects as I develop my skills.
+I'm a student focused on software development and artificial intelligence. I enjoy turning what I learn into practical projects and strengthening my foundations in computer science.
 
-## 🚀 What I'm Learning
+## 🧰 Skills & Experience
 
-- Python and software development
-- Artificial intelligence and machine learning
-- Deep learning and generative AI
+- **Python:** Intermediate
+- **Machine Learning & Deep Learning:** Learning through hands-on projects
+- **Git & GitHub:** Comfortable with everyday version control and repository workflows
+- **Linux:** Hands-on experience
+
+## 🌱 Current Learning
+
+- Building and improving Python applications
+- Machine learning and deep learning concepts
 - Algorithms and problem-solving
-- Git, GitHub, and Linux
+- Generative AI and reliable AI systems
 
-## 🛠️ Current Focus
+## 🔭 Current Focus
 
-Building a strong foundation in AI engineering through consistent study, experimentation, and hands-on projects.
+Developing practical software projects while building the skills needed for AI engineering.
 
 ## 💡 Project in Progress
 
-**VerityAI** — an early-stage project concept for a browser extension that checks AI-generated answers against evidence, highlights unsupported claims, and avoids presenting unverified information as fact.
+**VerityAI** — an early-stage browser-extension project focused on checking AI-generated answers against evidence, identifying unsupported claims, and clearly distinguishing verified information from claims that lack sufficient evidence.
 
 ## 🎯 Goal
 
-To become an AI engineer and contribute to useful, reliable AI systems.
+To become an AI engineer and help build useful, reliable AI systems.
 
 ---
 
